@@ -1,0 +1,6 @@
+
+discord.py
+wavelink
+spotipy
+lyricsgenius
+python-dotenv
